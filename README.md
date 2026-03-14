@@ -212,6 +212,5 @@ docker run -d -p 8080:8080 -v kvdata:/root/data kvstore
 docker-compose up -d
 ```
 
-## Лицензия
+*для создания некоторых вещей в проекте была использована нейросеть
 
-MIT
